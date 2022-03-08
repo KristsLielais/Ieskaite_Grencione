@@ -17,7 +17,7 @@
 #8 Robežnieks Eduards
 
 #9 Saukums Krists
-
+print(sin(radians(30)+fmod(13,2)))
 #10 Sprūģis Gabriels
 
 #11 Stankevičs Viesturs
